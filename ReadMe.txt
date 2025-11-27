@@ -1,5 +1,11 @@
 steps:-
 
+PORT 9090- Resource Server Application
+PORT 9091- KeyClock Authorization server
+PORT 9092- APIGateway Application
+
+
+
 start local project E:\Official WorkSpace\Intelij_Workspace\Oauth2\ResourceServer on 9090 port and KeyClock [G:\keycloak-26.4.6\bin] on 9091 port by kc.bat start-dev --http-port=9091
 http://localhost:9091hit below url and get code value
 
